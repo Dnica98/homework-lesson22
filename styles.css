@@ -1,0 +1,14 @@
+.testClass{
+    background: gray;
+}
+
+.listItem{
+    display: flex;
+    gap: 8px;
+}
+
+.toDoListWrapper{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 16px;
+}
